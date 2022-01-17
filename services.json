@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/ySHt2g3/adventure-travel-tourism-hike-people-concept-group-smiling-friends-forest-optimized.jpg",
+    "location": "Paris Hill Tour",
+    "timeNedded": "5/6 days",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/3mb3SCh/tourist-from-mountain-top-sun-rays-man-wear-big-backpack-against-sun-light-1-optimized.jpg",
+    "location": "Home Hill Tour",
+    "timeNedded": "3/4 days",
+    "price": 120
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/V29ZzHD/adventure-travel-tourism-hike-people-concept-three-girls-forest-optimized.jpg",
+    "location": "Out Hill Tour",
+    "timeNedded": "7/10 days",
+    "price": 350
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/3fycXzv/traveller-sitting-rock-holding-camera-take-photo-doi-pha-mon-mountains-chiang-rai-thailand-optimized.jpgg",
+    "location": "Next Hill Tour",
+    "timeNedded": "6/7 days",
+    "price": 177
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/QfvZKZ5/Couple-Of-Tourists-With-Backpacks-on-mountain.jpg",
+    "location": "We Hill Tour",
+    "timeNedded": "4 days",
+    "price": 130
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/5vq0scH/Traveller-sitting-on-the-rock-and-holding-camera-take-photo-at-Doi-pha-mon-mountains-in-Chiang-rai-T.jpg",
+    "location": "Naogaon Hill Tour",
+    "timeNedded": "30 days",
+    "price": 1000
+  }
+]
